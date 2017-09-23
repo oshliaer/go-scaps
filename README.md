@@ -6,6 +6,10 @@
 
 <!-- /TOC -->
 
+## Apps
+### Static web-server
+- [ran](https://github.com/m3ng9i/ran)
+
 ## google.golang.org
 ### drive/v3
 https://stackoverflow.com/a/34830165/1393023
